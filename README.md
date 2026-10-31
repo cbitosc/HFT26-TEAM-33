@@ -103,7 +103,7 @@ hop from phone to phone, so people far apart can still be reached.
 
 **Tech stack:** React, Vite, TypeScript, Capacitor, native Android (Java)
 
-**Download the app:** [PASTE RELEASE LINK HERE]
+**Download the app:** (https://github.com/hydasim/HFT26-TEAM-33/releases/download/v1.0/app-debug.apk)
 
 **How to run:**
 1. Install the APK on 2 or more Android phones
