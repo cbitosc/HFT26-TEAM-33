@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">MeshAid</string>
+    <string name="title_activity_main">MeshAid</string>
+    <string name="package_name">com.shoeb.meshaid</string>
+    <string name="custom_url_scheme">com.shoeb.meshaid</string>
+</resources>

@@ -1,0 +1,11 @@
+{
+  "name": "MeshAid",
+  "description": "Offline emergency mesh chat application",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
