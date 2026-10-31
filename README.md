@@ -87,3 +87,30 @@ All teams must follow the official fork-and-pull-request workflow:
 * **Upstream Protection**: Do not push directly to this repository's main branch. All evaluation will be conducted on your submitted Pull Request.
 * **Original Work**: All code submitted must be developed during the hackathon timeline. Open-source libraries and frameworks are welcomed with proper attribution.
 * **Code Freeze**: Final Pull Requests must be submitted before the designated hackathon submission deadline.
+
+## ResQ - Offline Emergency Mesh Chat
+
+**What it does:** Phones talk directly to each other with no internet or
+cell signal, using Google Nearby Connections (Bluetooth + Wi-Fi). Messages
+hop from phone to phone, so people far apart can still be reached.
+
+**Key features:**
+- Phone-to-phone multi-hop messaging
+- SOS alerts with siren and GPS location
+- AES-256 end-to-end encryption
+- Map and safe zones
+- AI survival assistant
+
+**Tech stack:** React, Vite, TypeScript, Capacitor, native Android (Java)
+
+**Download the app:** [PASTE RELEASE LINK HERE]
+
+**How to run:**
+1. Install the APK on 2 or more Android phones
+2. Allow Bluetooth, location, and nearby device permissions
+3. Open the app on both phones and they will connect
+
+**Demo video:** [ADD LINK LATER]
+
+**Note:** UI scaffolded with Google AI Studio; the mesh logic and native
+plugin were built by our team.
